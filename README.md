@@ -2,6 +2,7 @@
 
 Install a cron job once and for all, manage the rest right from the code.
 
+I am Busari Oladeji A.
 
 ![Version](http://img.shields.io/packagist/v/lavary/crunz.svg?style=flat-square)
 ![Build](http://img.shields.io/travis/lavary/crunz.svg?style=flat-square)
